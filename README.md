@@ -92,11 +92,11 @@ Power BI                ██████░░░░   Practicing
 
 ## 📈 GitHub Activity
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeDJa-hash&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrAZyNeDJa&theme=tokyonight)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NeDJa-hash&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrAZyNeDJa&theme=tokyonight)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeDJa-hash&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrAZyNeDJa&theme=tokyonight)
 
 ---
 
