@@ -111,7 +111,7 @@ documenting my learning journey, and improving every week.
 
 ## 📫 Connect with Me
 
-- GitHub: [NeDJa-hash](https://github.com/NeDJa-hash)
+- GitHub: [NeDJa-hash](https://github.com/CrAZyNeDJa)
 - Email: khalimovjaxongir67@gmail.com
 - Telegram: [Khalimov Javokhir](https://t.me/CrAZyNeDJa)
 
